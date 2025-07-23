@@ -15,7 +15,7 @@ npm run start
 ---
 ## 🎥 Project Demo
 
-Here is a full demonstration of the NaviTrails application,   <a href="https://youtu.be/5qJZfDLsvQ4" target="_blank"> watch in you tube 🎥
+Here is a full demonstration of the NaviTrails application,   <a href="https://youtu.be/gGUV7zPXPIM" target="_blank"> watch in you tube 🎥
   </a>.
 ---
 
