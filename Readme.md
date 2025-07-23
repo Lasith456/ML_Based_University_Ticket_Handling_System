@@ -1,3 +1,5 @@
+# SMARTUNI System
+---
 Installation
 
 First time
@@ -10,5 +12,11 @@ npm run dev
 
 in production mode.
 npm run start
+---
+## 🎥 Project Demo
+
+Here is a full demonstration of the NaviTrails application,   <a href="https://youtu.be/gGUV7zPXPIM" target="_blank"> watch in you tube 🎥
+  </a>.
+---
 
 Login Credintials:- email-lcviduranga456@gmail.com  password- Lasith123
